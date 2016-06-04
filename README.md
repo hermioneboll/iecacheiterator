@@ -1,2 +1,1 @@
-# iecacheiterator
-An iterator for IE caches .
+An STL-conforming iterator for the Internet Explorer cache.
